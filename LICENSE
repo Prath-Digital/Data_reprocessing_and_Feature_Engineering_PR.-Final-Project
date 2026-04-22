@@ -1,0 +1,72 @@
+MIT License
+
+Copyright (c) 2026 Prath Udhnawala
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+DISCLAIMER FOR ACADEMIC PROJECT
+
+This project was developed as part of a comprehensive academic assessment in
+Data Reprocessing and Feature Engineering. While the methodologies, techniques,
+and implementations demonstrate professional standards, please note:
+
+1. ACADEMIC PURPOSE: This project is intended for educational purposes to
+   demonstrate data science skills and knowledge.
+
+2. DATA HANDLING: The dataset and examples used are for learning purposes.
+   In production environments, additional validation, error handling, and
+   compliance measures would be required.
+
+3. NO WARRANTIES: The code and documentation are provided as-is for academic
+   and learning purposes. No warranties are provided regarding accuracy,
+   completeness, or suitability for specific applications.
+
+4. RESPONSIBLE USE: Users are responsible for understanding the methodology
+   and validating results in their specific context before production use.
+
+5. ACADEMIC INTEGRITY: If this project or its components are used in other
+   contexts, please provide appropriate attribution and maintain academic
+   integrity standards.
+
+================================================================================
+
+USAGE GUIDELINES
+
+PERMITTED:
+✅ Educational use and learning
+✅ Modification for academic purposes
+✅ Distribution with attribution
+✅ Study and analysis
+✅ Reference in other academic work (with citation)
+
+RECOMMENDED PRACTICES:
+📋 Include original license and copyright
+📋 Provide attribution
+📋 Maintain documentation
+📋 Test thoroughly before any production use
+📋 Document any modifications
+
+================================================================================
+
+For questions or permissions not covered by this license, please contact:
+Prath-Digital
+
+Last Updated: 22nd April 2026

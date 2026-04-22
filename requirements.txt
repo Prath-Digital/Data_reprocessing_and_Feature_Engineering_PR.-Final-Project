@@ -1,0 +1,9 @@
+numpy
+pandas
+openpyxl
+requests
+scipy
+matplotlib
+seaborn
+scikit-learn
+ydata-profiling
